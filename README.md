@@ -46,7 +46,7 @@ Um aplicativo de chat em tempo real desenvolvido com Flutter utilizando WebSocke
 
 1. **Servidor WebSocket**:
 ```bash
-python server.py
+python websockt2.py
 
 ```
 
