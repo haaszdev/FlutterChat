@@ -66,7 +66,7 @@ chat_app/
 │ ├── main.dart # Ponto de entrada
 │ ├── chat_page.dart # Tela do chat
 │ └── contacts_page.dart # Tela de login
-├── server.py # Servidor WebSocket
+├── websocket2.py # Servidor WebSocket
 └── pubspec.yaml # Dependências Flutter
 ```
 
